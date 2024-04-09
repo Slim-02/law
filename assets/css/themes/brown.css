@@ -1,0 +1,51 @@
+﻿
+ h1 {
+color:#B69D74;
+}
+
+/* =============================================================
+  BUTTON SECTION STYLES
+ ============================================================ */
+.custom-btn-one {
+   border-color: #B69D74;
+}
+   
+/* =============================================================
+  HOME SECTION STYLES
+ ============================================================ */
+
+ #home-sec .main-img {     
+   border:5px solid #B69D74;
+}
+ #home-sec .main-img-2 {
+   border:5px solid #B69D74;
+}
+    .icon-round:hover {
+        background-color:#B69D74;
+    }
+
+.board .tab-content i {
+    color: #B69D74;
+}
+
+
+ /*=====================================
+  FOOTER STYLES 
+    ===================================*/
+#footer-sec h3{
+    color: #B69D74;
+}
+#footer-sec i{
+    color: #B69D74;
+}
+#footer-sec a{
+    color: white;
+}
+
+ /*=====================================
+  SCROLLUP STYLES 
+    ===================================*/
+a.scrollup {
+background: #B69D74;
+
+}
